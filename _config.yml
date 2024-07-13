@@ -1,12 +1,12 @@
-title: Cortext Blog
+title: Cortext
 email: boris@cortext.nl
-description: >- # this means to ignore newlines until "baseurl:"
-  I offer consultancy and software development to help Dutch companies exploit
-  the data they have using statistical machine learning methods.
+description: >
+  The Cortext Research Blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: breuderink
-github_username:  breuderink
+github_username: breuderink
+linkedin_username: breuderink
 
 # Build settings
 theme: minima

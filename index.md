@@ -1,5 +1,6 @@
 ---
 layout: home
 ---
-
-This is the index page.
+# Consultancy
+I offer consultancy and software development to help Dutch companies leverage
+the data they have using machine learning and artificial intelligence.
