@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Online passive-aggressive algorithms
-categories: papers, embedded
+categories: [papers, embedded]
 ---
 
 One of my favorite papers is the paper on [online passive-aggressive

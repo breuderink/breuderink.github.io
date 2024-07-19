@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Free energy principle
-categories: papers, embedded
+title:  The free energy principle
+categories: [learning, information theory]
 ---
 
 When I stumbled on Friston's free energy principle (FEP) and active inference it
