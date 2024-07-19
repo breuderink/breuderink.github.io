@@ -7,7 +7,7 @@ description: >
 twitter_username: breuderink
 github_username: breuderink
 linkedin_username: breuderink
-google_analytics: UA-511603-9
+# google_analytics: UA-511603-9
 
 # Build settings
 theme: minima
