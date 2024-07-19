@@ -9,4 +9,6 @@ training elegant algorithms to make useful predictions. My expertise includes
 developing algorithms that analyze biosignals (think blood pressure,
 photoplethysmograms, and EEG brain signals). If you're working on health and
 fitness apps or medical devices, I might be able to help you get more out of
-your data. If you need a consultant who knows machine learning, I'm here.
+your data. 
+
+If you need a consultant who knows machine learning, I'm here.
